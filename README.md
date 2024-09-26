@@ -1,9 +1,8 @@
 # CHAT BOT GEMINI
 O chat bot é um bot para whatsapp desenvolvido com a biblioteca Venom-bot para a interação com o whatsapp e o SDK gemini para acesso a IA do google Gemini.
 
-<div style="border:1px solid #f00; padding: 10px; background-color: #ffe0e0;">
-  <span>ATENÇÃO! o projeto venom, não é a API oficial do whasApp, logo utilize com cuidado, evite spans de mensagens!</span>
-</div>
+ATENÇÃO! o projeto venom não é a API oficial do whasApp, logo utilize com cuidado, evite spans de mensagens!
+documentação oficial do venom-bot: https://github.com/orkestral/venom
 
 ## Como utilizar.
 
